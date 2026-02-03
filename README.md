@@ -1,3 +1,3 @@
 # Tic-TocGame
 Game of  TicToC
-author Yashavntha S
+Author - Yashavntha S
